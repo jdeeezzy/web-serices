@@ -89,6 +89,8 @@ alert('Error - ' + xhr.status + ': ' + xhr.statusText);
 </head>
 	<body>
 	<h1>Super Bowl Winners in the past 10 years</h1>
+		 <p>This website uses JavaScript, php, and jQuery to sort data. The end user will be able to click a link that sorts 
+	            past Super Bowls in the last 10 years. Each year will have the Winner, the score, the MVP, and halftime performers </p>
 		<a href="year" class="category">2011 - 2015</a><br />
 		<a href="box" class="category">2016 - 2020</a>
 		<h3 id="filmtitle">Superbowl Winners</h3>
